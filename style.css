@@ -1,0 +1,46 @@
+
+
+body{
+    text-align: center !important;
+    background-color: rgb(0, 0, 0) !important;
+}
+
+#btn-buscar{
+    color: white;
+    background-color: #04AA6D;
+    height: 40px;
+    width: 100px;
+    border: #04AA6D;
+    border-radius: 10px;
+
+}
+
+
+#btn-buscar:hover{
+        box-shadow: 0px 0px 9px #04AA6D;
+        cursor: pointer;
+    }
+
+
+#gifs{
+    margin-top: 50px;
+    display: flex;
+   flex-wrap: wrap; 
+   justify-content:  center;
+}
+
+.titulo {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: 0px 0px 9px #04AA6D;
+}
+
+#buscar{
+    width: 500px;
+}
+
+#buscar{
+    height: 35px;
+    border-radius: 8px;
+}
