@@ -1,2 +1,2 @@
 # repository_sebas
-este repositorio es enfoicado principalmente en mis proyectos inciales o principales
+este buscador de gifs fue hecho con una logica sencilla de javascript e intente aplicar lo que aprendi en una clase destinada a APIS 
